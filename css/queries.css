@@ -1,0 +1,626 @@
+/*big tablets to 1200px (width smaller than the 1140px row)*/
+@media only screen and (max-width:1200px){
+    img.leadd {
+        width: 37%;
+    }
+    img.naming {
+        display: none;
+    }
+    h1.space {
+        color: white;
+        font-size: 51px;
+        margin-bottom: 1em;
+        margin-top: 2em;
+        white-space: nowrap;
+        margin-left: 0em;
+    }
+    .back {
+        background-image: url(../image/email-pattern.png);
+        height: 43em;
+        margin-top: 10em;
+        width: 64rem;
+    }
+    p.working {
+        margin-bottom: 1em;
+        color: #fff;
+        font-size: 40px;
+    }
+    .office {
+        margin-top: -34em;
+        display: block;
+        text-align: center;
+    }
+    .fless {
+        display: grid;
+        justify-content: center;
+        margin-top: 7em;
+    }
+    .page {
+        margin: 1em;
+        width: 46em;
+        height: 31em;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;
+    }
+    h1.fast {
+        font-size: 49px;
+    }
+    .speed {
+        font-size: 40px;
+        margin-top: 1em;
+    }
+    .listed {
+        background-color: #60a1f1;
+        display: none;
+       
+    }
+    .member {
+        display: grid;
+        margin-top: 6em;
+        justify-content: center;
+    }
+    .card {
+        margin: 1em;
+        width: 59em;
+        height: 59em;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;
+    }
+    h1.beta {
+        font-size: 52px;
+        margin-top: 72px;
+        margin-bottom: 1em;
+    }
+    h3.money {
+        font-size: 40px;
+    }
+    li {
+        font-size: 38px;
+        line-height: 50px;
+        margin-top: 3px;
+    }
+    button.book {
+        padding-right: 3em;
+        padding-left: 3em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        border: none;
+        background-color: #007dfe;
+        position: relative;
+        font-size: 32px;
+        animation: myshake 5s;
+        color: white;
+        margin-top: 1em;
+    }
+    .row-deserve {
+        display: block;
+    }
+    .pictus {
+        background-color: #60a1f1;
+        width: 100%;
+        height: 29vh;
+    }
+    img.remove {
+        width: 50%;
+        
+    }
+    h1.package {
+        font-size: 50px;
+        font-weight: 800;
+        margin-top: 1em;
+    }
+    p.date {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .book-form {
+        margin-top: 4em;
+    }
+    label.play {
+        font-size: 43px;
+        margin-left: -11em;
+    }
+    .datted {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        width: 40rem;
+        border: 1px solid darkgray;
+        font-size: 40px;
+    }
+    p.day {
+        font-size: 19px;
+        margin-bottom: 1em;
+        color: darkgray;
+        margin-left: -16em;
+    }
+    select.selected {
+        font-size: 30px;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        width: 40rem;
+        background-color: transparent;
+        border: 1px solid darkgray;
+    }
+    button.next {
+        margin-top: 2rem;
+        padding-left: 4em;
+        padding-right: 5em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 7rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 33px;
+        background-color: #60a1f1;
+        margin-left: -11em;
+    }
+    section.row-wapper {
+        display: block;
+    }
+    .pics {
+        background-color: #60a1fa;
+        width: 100%;
+        height: 26vh;
+    }
+    img.concept {
+        margin-top: 3em;
+        width: 61%;
+        margin-left: 12em;
+    }
+    h1.know {
+        font-size: 55px;
+    }
+    p.who {
+        font-size: 32px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+    label.first {
+        font-size: 40px;
+        margin-left: -12em;
+    }
+    input.john {
+        padding-bottom: 1em;
+        width: 66%;
+        font-size: 35px;
+    }
+    label.fast {
+        font-size: 42px;
+        margin-left: -13em;
+    }
+    label.lastt {
+        font-size: 43px;
+        margin-left: -12em;
+    }
+    .fist {
+        font-size: 41px;
+        margin-left: -10em;
+    }
+    button.nest {
+        margin-top: 3rem;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 14rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 38px;
+        background-color: #60a1f1;
+        margin-left: -11em;
+    }
+    img.resume {
+        width: 43%;
+    }
+    section.row-paper {
+        display: block;
+    }
+    label.pay {
+        font-size: 48px;
+        border: 1px solid;
+        padding-right: 3em;
+        padding-left: 3em;
+        background-color: #60a1fa;
+        color: white;
+    }
+    label.paid {
+        font-size: 49px;
+        padding-right: 6em;
+        border: 1px solid;
+        padding-left: 4em;
+        background-color: #60a1fa;
+        color: white;
+    }
+    input#pay {
+        width: 7%;
+    }
+    button.butt {
+        margin-top: 2rem;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 13rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 35px;
+        background-color: #60a1f1;
+    }
+    p.want {
+        font-size: 35px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+    h1.pay {
+        font-size: 32px;
+        font-weight: 800;
+        margin-top: 2em;
+    }
+    button.btnclick {
+        border: none;
+        background-color: #60a1fa;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+        outline: none;
+        box-shadow: 0.9px #999;
+        position: relative;
+        animation: mymove 5s infinite;
+        font-size: 35px;
+    }
+    .btnlink {
+        border: none;
+        background-color: #60a1fa;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+        outline: none;
+        box-shadow: 0.9px #999;
+        position: relative;
+        animation: mymove 5s infinite;
+        font-size: 35px;
+    }
+    .row {
+        display: flex;
+        justify-content: space-around;
+        background-color: #007dfe;
+        width: 64em;
+    }
+
+}
+
+/*small tablets to big tablets: from 768px to 1023px*/
+@media only screen and (max-width:1023px){
+    img.leadd {
+        width: 37%;
+    }
+    img.naming {
+        display: none;
+    }
+    h1.space {
+        color: white;
+        font-size: 51px;
+        margin-bottom: 1em;
+        margin-top: 2em;
+        white-space: nowrap;
+    
+    }
+    .back {
+        background-image: url(../image/email-pattern.png);
+        height: 43em;
+        margin-top: 10em;
+        width: 64rem;
+    }
+    p.working {
+        margin-bottom: 1em;
+        color: #fff;
+        font-size: 40px;
+    }
+    .office {
+        margin-top: -34em;
+        display: block;
+        text-align: center;
+    }
+    .fless {
+        display: grid;
+        justify-content: center;
+        margin-top: 7em;
+    }
+    .page {
+        margin: 1em;
+        width: 46em;
+        height: 31em;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;
+    }
+    h1.fast {
+        font-size: 49px;
+    }
+    .speed {
+        font-size: 40px;
+        margin-top: 1em;
+    }
+    .listed {
+        background-color: #60a1f1;
+        display: none;
+       
+    }
+    .member {
+        display: grid;
+        margin-top: 6em;
+        justify-content: center;
+    }
+    .card {
+        margin: 1em;
+        width: 59em;
+        height: 59em;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;
+    }
+    h1.beta {
+        font-size: 52px;
+        margin-top: 72px;
+        margin-bottom: 1em;
+    }
+    h3.money {
+        font-size: 40px;
+        margin-bottom: 1em;
+    }
+    li {
+        font-size: 38px;
+        line-height: 50px;
+        margin-top: 3px;
+    }
+    button.book {
+        padding-right: 3em;
+        padding-left: 3em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        border: none;
+        background-color: #007dfe;
+        position: relative;
+        font-size: 32px;
+        animation: myshake 5s;
+        color: white;
+        margin-top: 1em;
+    }
+    .row-deserve {
+        display: block;
+    }
+    .pictus {
+        background-color: #60a1f1;
+        width: 100%;
+        height: 29vh;
+    }
+    img.remove {
+        width: 50%;
+       
+    }
+    h1.package {
+        font-size: 50px;
+        font-weight: 800;
+        margin-top: 1em;
+    }
+    p.date {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .book-form {
+        margin-top: 4em;
+    }
+    label.play {
+        font-size: 43px;
+        margin-left: -11em;
+    }
+    .datted {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        width: 40rem;
+        border: 1px solid darkgray;
+        font-size: 40px;
+    }
+    p.day {
+        font-size: 19px;
+        margin-bottom: 1em;
+        color: darkgray;
+        margin-left: -16em;
+    }
+    select.selected {
+        font-size: 30px;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        width: 40rem;
+        background-color: transparent;
+        border: 1px solid darkgray;
+    }
+    button.next {
+        margin-top: 2rem;
+        padding-left: 4em;
+        padding-right: 5em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 7rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 33px;
+        background-color: #60a1f1;
+        margin-left: -11em;
+    }
+    section.row-wapper {
+        display: block;
+    }
+    .pics {
+        background-color: #60a1fa;
+        width: 100%;
+        height: 26vh;
+    }
+    img.concept {
+        margin-top: 3em;
+        width: 61%;
+        margin-left: 12em;
+    }
+    h1.know {
+        font-size: 55px;
+    }
+    p.who {
+        font-size: 32px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+    label.first {
+        font-size: 40px;
+        margin-left: -12em;
+    }
+    input.john {
+        padding-bottom: 1em;
+        width: 66%;
+        font-size: 35px;
+    }
+    label.fast {
+        font-size: 42px;
+        margin-left: -13em;
+    }
+    label.lastt {
+        font-size: 43px;
+        margin-left: -12em;
+    }
+    .fist {
+        font-size: 41px;
+        margin-left: -10em;
+    }
+    button.nest {
+        margin-top: 3rem;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 14rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 38px;
+        background-color: #60a1f1;
+        margin-left: -11em;
+    }
+    img.resume {
+        width: 43%;
+    }
+    section.row-paper {
+        display: block;
+    }
+    label.pay {
+        font-size: 48px;
+        border: 1px solid;
+        padding-right: 3em;
+        padding-left: 3em;
+        background-color: #60a1fa;
+        color: white;
+    }
+    label.paid {
+        font-size: 49px;
+        padding-right: 6em;
+        border: 1px solid;
+        padding-left: 4em;
+        background-color: #60a1fa;
+        color: white;
+    }
+    input#pay {
+        width: 7%;
+    }
+    button.butt {
+        margin-top: 2rem;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        width: 13rem;
+        border-radius: 1rem;
+        border: none;
+        font-size: 35px;
+        background-color: #60a1f1;
+    }
+    p.want {
+        font-size: 35px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+    h1.pay {
+        font-size: 32px;
+        font-weight: 800;
+        margin-top: 2em;
+    }
+    button.btnclick {
+        border: none;
+        background-color: #60a1fa;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+        outline: none;
+        box-shadow: 0.9px #999;
+        position: relative;
+        animation: mymove 5s infinite;
+        font-size: 35px;
+    }
+    .btnlink {
+        border: none;
+        background-color: #60a1fa;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 1em;
+        padding-top: 1em;
+        border-radius: 50px;
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+        outline: none;
+        box-shadow: 0.9px #999;
+        position: relative;
+        animation: mymove 5s infinite;
+        font-size: 35px;
+    }
+    .row {
+        display: flex;
+        justify-content: space-around;
+        background-color: #007dfe;
+        width: 64em;
+    }
+
+
+
+    
+    
+    
+
+
+}
+
+
+/*small phone to small tablets: from 481px to 767px*/
+@media only screen and (max-width:767px){
+
+
+}
+/*small phone: from 0 to 480px*/
+@media only screen and (max-width:480px){
+    
+}
