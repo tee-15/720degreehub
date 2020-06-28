@@ -467,3 +467,6 @@ button.butt {
     font-size: 16px;
     background-color: #60a1f1;
 }
+input#pay {
+    margin-top: 9em;
+}

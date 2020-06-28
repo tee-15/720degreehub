@@ -8,10 +8,10 @@
     }
     h1.space {
         color: white;
-        font-size: 51px;
+        font-size: 56px;
         margin-bottom: 1em;
-        margin-top: 2em;
-        white-space: nowrap;
+        margin-top: 4em;
+        white-space: inherit;
         margin-left: 0em;
     }
     .back {
@@ -23,7 +23,9 @@
     p.working {
         margin-bottom: 1em;
         color: #fff;
-        font-size: 40px;
+        font-size: 44px;
+        margin-top: 3em;
+        margin-left: 0em;
     }
     .office {
         margin-top: -34em;
@@ -62,7 +64,7 @@
     }
     .card {
         margin: 1em;
-        width: 59em;
+        width: 65em;
         height: 59em;
         text-align: center;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -120,15 +122,15 @@
         margin-top: 4em;
     }
     label.play {
-        font-size: 43px;
-        margin-left: -11em;
+        font-size: 34px;
+        margin-left: -14em;
     }
     .datted {
         padding-top: 1em;
         padding-bottom: 1em;
-        width: 40rem;
+        width: 37rem;
         border: 1px solid darkgray;
-        font-size: 40px;
+        font-size: 25px;
     }
     p.day {
         font-size: 19px;
@@ -137,25 +139,25 @@
         margin-left: -14em;
     }
     select.selected {
-        font-size: 30px;
+        font-size: 24px;
         padding-top: 1em;
         padding-bottom: 1em;
-        width: 40rem;
+        width: 37rem;
         background-color: transparent;
         border: 1px solid darkgray;
     }
     button.next {
         margin-top: 2rem;
-        padding-left: 4em;
-        padding-right: 5em;
+        padding-left: 2em;
+        padding-right: 4em;
         padding-bottom: 1em;
         padding-top: 1em;
-        width: 7rem;
+        width: 1rem;
         border-radius: 1rem;
         border: none;
         font-size: 33px;
         background-color: #60a1f1;
-        margin-left: -11em;
+        margin-left: 0em;
     }
     section.row-wapper {
         display: block;
@@ -179,28 +181,31 @@
         margin-bottom: 2em;
     }
     label.first {
-        font-size: 40px;
-        margin-left: -12em;
+        font-size: 30px;
+        margin-left: -17em;
+        padding-top: 1em;
     }
     input.john {
         padding-bottom: 1em;
         width: 66%;
-        font-size: 35px;
+        font-size: 30px;
+        margin-bottom: 3em;
+        padding-top: 1em;
     }
     label.fast {
-        font-size: 42px;
-        margin-left: -13em;
+        font-size: 30px;
+        margin-left: -19em;
     }
     label.lastt {
-        font-size: 43px;
-        margin-left: -12em;
+        font-size: 30px;
+        margin-left: -18em;
     }
     .fist {
-        font-size: 41px;
-        margin-left: -10em;
+        font-size: 30px;
+        margin-left: -15em;
     }
     button.nest {
-        margin-top: 3rem;
+        margin-top: 0rem;
         padding-left: 2em;
         padding-right: 2em;
         padding-bottom: 1em;
@@ -208,9 +213,9 @@
         width: 14rem;
         border-radius: 1rem;
         border: none;
-        font-size: 38px;
+        font-size: 30px;
         background-color: #60a1f1;
-        margin-left: -11em;
+        margin-left: -14em;
     }
     img.resume {
         width: 43%;
@@ -218,27 +223,13 @@
     section.row-paper {
         display: block;
     }
-    label.pay {
-        font-size: 48px;
-        border: 1px solid;
-        padding-right: 3em;
-        padding-left: 3em;
-        background-color: #60a1fa;
-        color: white;
-    }
-    label.paid {
-        font-size: 49px;
-        padding-right: 6em;
-        border: 1px solid;
-        padding-left: 4em;
-        background-color: #60a1fa;
-        color: white;
-    }
+   
     input#pay {
         width: 7%;
+        margin-left: -35em;
     }
     button.butt {
-        margin-top: 2rem;
+        margin-top: 6rem;
         padding-left: 1em;
         padding-right: 1em;
         padding-bottom: 1em;
@@ -246,16 +237,18 @@
         width: 13rem;
         border-radius: 1rem;
         border: none;
-        font-size: 35px;
+        font-size: 25px;
         background-color: #60a1f1;
+        margin-left: -26em;
+        color: white;
     }
     p.want {
-        font-size: 35px;
-        margin-top: 1em;
-        margin-bottom: 2em;
+        font-size: 25px;
+        margin-top: 2em;
+        margin-bottom: -1em;
     }
     h1.pay {
-        font-size: 32px;
+        font-size: 50px;
         font-weight: 800;
         margin-top: 2em;
     }
@@ -298,8 +291,50 @@
         justify-content: space-around;
         background-color: #007dfe;
         width: 64em;
+        height: 88em;
     }
-
+    .wifi {
+        width: 9em;
+        border-radius: 91px;
+        margin-top: 1em;
+    }
+    .preview {
+        width: 50em;
+        margin-left: 8em;
+    }
+    .front-logo {
+        display: none;
+    }
+    .row-lape {
+        margin: auto;
+        margin-top: 10em;
+    }
+    .how {
+        margin-left: -20em;
+    }
+    label.pay {
+        font-size: 30px;
+        border: 1px solid;
+        padding-right: 3em;
+        padding-left: 3em;
+        background-color: darkgray;
+        color: black;
+        margin-left: 0em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+    
+    label.paid {
+        font-size: 30px;
+        border: 1px solid;
+        padding-right: 5em;
+        padding-left: 5em;
+        background-color: darkgray;
+        color: black;
+        margin-left: 0em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
 }
 
 /*small tablets to big tablets: from 768px to 1023px*/
@@ -312,11 +347,11 @@
     }
     h1.space {
         color: white;
-        font-size: 51px;
+        font-size: 56px;
         margin-bottom: 1em;
-        margin-top: 2em;
-        white-space: nowrap;
-    
+        margin-top: 4em;
+        white-space: inherit;
+        margin-left: 0em;
     }
     .back {
         background-image: url(../image/email-pattern.png);
@@ -327,7 +362,9 @@
     p.working {
         margin-bottom: 1em;
         color: #fff;
-        font-size: 40px;
+        font-size: 44px;
+        margin-top: 3em;
+        margin-left: 0em;
     }
     .office {
         margin-top: -34em;
@@ -366,7 +403,7 @@
     }
     .card {
         margin: 1em;
-        width: 59em;
+        width: 65em;
         height: 59em;
         text-align: center;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -425,15 +462,15 @@
         margin-top: 4em;
     }
     label.play {
-        font-size: 43px;
-        margin-left: -11em;
+        font-size: 34px;
+        margin-left: -14em;
     }
     .datted {
         padding-top: 1em;
         padding-bottom: 1em;
-        width: 40rem;
+        width: 37rem;
         border: 1px solid darkgray;
-        font-size: 40px;
+        font-size: 25px;
     }
     p.day {
         font-size: 19px;
@@ -442,25 +479,25 @@
         margin-left: -14em;
     }
     select.selected {
-        font-size: 30px;
+        font-size: 24px;
         padding-top: 1em;
         padding-bottom: 1em;
-        width: 40rem;
+        width: 37rem;
         background-color: transparent;
         border: 1px solid darkgray;
     }
     button.next {
         margin-top: 2rem;
-        padding-left: 4em;
-        padding-right: 5em;
+        padding-left: 2em;
+        padding-right: 4em;
         padding-bottom: 1em;
         padding-top: 1em;
-        width: 7rem;
+        width: 1rem;
         border-radius: 1rem;
         border: none;
         font-size: 33px;
         background-color: #60a1f1;
-        margin-left: -11em;
+        margin-left: 0em;
     }
     section.row-wapper {
         display: block;
@@ -484,28 +521,32 @@
         margin-bottom: 2em;
     }
     label.first {
-        font-size: 40px;
-        margin-left: -12em;
+        font-size: 30px;
+        margin-left: -17em;
+        padding-top: 1em;
     }
+   
     input.john {
         padding-bottom: 1em;
         width: 66%;
-        font-size: 35px;
+        font-size: 30px;
+        margin-bottom: 3em;
+        padding-top: 1em;
     }
     label.fast {
-        font-size: 42px;
-        margin-left: -13em;
+        font-size: 30px;
+        margin-left: -19em;
     }
     label.lastt {
-        font-size: 43px;
-        margin-left: -12em;
+        font-size: 30px;
+        margin-left: -18em;
     }
     .fist {
-        font-size: 41px;
-        margin-left: -10em;
+        font-size: 30px;
+        margin-left: -15em;
     }
     button.nest {
-        margin-top: 3rem;
+        margin-top: 0rem;
         padding-left: 2em;
         padding-right: 2em;
         padding-bottom: 1em;
@@ -513,9 +554,9 @@
         width: 14rem;
         border-radius: 1rem;
         border: none;
-        font-size: 38px;
+        font-size: 30px;
         background-color: #60a1f1;
-        margin-left: -11em;
+        margin-left: -14em;
     }
     img.resume {
         width: 43%;
@@ -523,27 +564,18 @@
     section.row-paper {
         display: block;
     }
-    label.pay {
-        font-size: 48px;
-        border: 1px solid;
-        padding-right: 3em;
-        padding-left: 3em;
-        background-color: #60a1fa;
-        color: white;
-    }
-    label.paid {
-        font-size: 49px;
-        padding-right: 6em;
-        border: 1px solid;
-        padding-left: 4em;
-        background-color: #60a1fa;
-        color: white;
+    p.want {
+        font-size: 30px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+        margin-left: -2em;
     }
     input#pay {
         width: 7%;
+        margin-left: -35em;
     }
     button.butt {
-        margin-top: 2rem;
+        margin-top: 6rem;
         padding-left: 1em;
         padding-right: 1em;
         padding-bottom: 1em;
@@ -551,16 +583,18 @@
         width: 13rem;
         border-radius: 1rem;
         border: none;
-        font-size: 35px;
+        font-size: 25px;
         background-color: #60a1f1;
+        margin-left: -26em;
+        color: white;
     }
     p.want {
-        font-size: 35px;
-        margin-top: 1em;
-        margin-bottom: 2em;
+        font-size: 25px;
+        margin-top: 2em;
+        margin-bottom: -1em;
     }
     h1.pay {
-        font-size: 32px;
+        font-size: 50px;
         font-weight: 800;
         margin-top: 2em;
     }
@@ -603,12 +637,50 @@
         justify-content: space-around;
         background-color: #007dfe;
         width: 64em;
+        height: 88em;
     }
-
-
-
+    .wifi {
+        width: 9em;
+        border-radius: 91px;
+        margin-top: 1em;
+    }
+    .preview {
+        width: 50em;
+        margin-left: 8em;
+    }
+    .front-logo {
+        display: none;
+    }
+    .row-lape {
+        margin: auto;
+        margin-top: 10em;
+    }
+    .how {
+        margin-left: -20em;
+    }
+    label.pay {
+        font-size: 30px;
+        border: 1px solid;
+        padding-right: 3em;
+        padding-left: 3em;
+        background-color: darkgray;
+        color: black;
+        margin-left: 0em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
     
-    
+    label.paid {
+        font-size: 30px;
+        border: 1px solid;
+        padding-right: 5em;
+        padding-left: 5em;
+        background-color: darkgray;
+        color: black;
+        margin-left: 0em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
     
 
 
